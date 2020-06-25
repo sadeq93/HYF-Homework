@@ -1,0 +1,6 @@
+ 1- $ mkdir .<Directory Name>
+ 1- $ touch .<file Name>
+ 1- $ ls -a
+ 2- $ mkdir ~/Desktop/HYF/Sadeq's-directory
+ 3- $ echo "first message" > [File name.File extension] 
+ 3- $ echo "second message" >> [File name.File extension] 
